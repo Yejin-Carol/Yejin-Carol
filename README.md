@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Yejin-Carol's github stats](https://github-readme-stats.vercel.app/api?username=Yejin-Carol&show_icons=true)
 
-<img src="https://img.shields.io/github/followers/Yejin-Carol?style=social">
 
 ### How to reach me
 <a href="mailto:yejin.carol.jang@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -27,3 +26,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 
+<!--<img src="https://img.shields.io/github/followers/Yejin-Carol?style=social">>
